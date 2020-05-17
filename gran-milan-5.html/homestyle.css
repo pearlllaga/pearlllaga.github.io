@@ -63,7 +63,7 @@ a {
     background-image: url("coffee.jpeg");
     color: whitesmoke;
     font-weight: bold;
-    font-size: 80pt;
+    font-size: 60pt;
     padding-left: 20pt;
     display: block;
 	line-height: 120%;
@@ -71,10 +71,12 @@ a {
 
 #splashSection {
     display: flex;
+    align-content: center ;
+    justify-content: center;
     background-color: whitesmoke;
     background-position: center center;
     height: 500px;
-     display: flex; 
+    display: flex; 
 
 }
 
