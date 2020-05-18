@@ -113,6 +113,7 @@ h2 {
 
 li { 
     text-align: center;
+	line-height: 10pt;
 }
 ul {
     list-style-type: none;
